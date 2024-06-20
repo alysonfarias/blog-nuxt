@@ -1,18 +1,16 @@
+<script setup lang="ts">
+</script>
+
 <template>
   <div>
     <!-- <NuxtRouteAnnouncer />
     <NuxtWelcome /> -->
-    <nav>
-      <li>
-        <NuxtLink to="/">Home</NuxtLink>
-      </li>
-      <li>
-        <NuxtLink to="/about">About</NuxtLink>
-      </li>
-      <li>
-        <NuxtLink to="/blog/teste">blog test</NuxtLink>
-      </li>
-    </nav>
-    <NuxtPage />
+    <NuxtLayout :name="layout">
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
+
+<script setup lang="ts">
+const layout = "another";
+</script>
