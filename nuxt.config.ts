@@ -7,15 +7,10 @@ export default defineNuxtConfig({
       enabled: true,
     },
   },
-  future: {
-    compatibilityVersion: 4,
+  app: {
+    pageTransition: { name: "page", mode: "out-in" },
   },
-  modules: [
-    "@nuxtjs/tailwindcss",
-    "@nuxtjs/color-mode",
-    "@nuxt/content",
-    "@nuxt/image"
-  ],
+  modules: ["@nuxtjs/tailwindcss", "@nuxtjs/color-mode", "@nuxt/content"],
   content: {
     highlight: {
       theme: {
@@ -31,5 +26,8 @@ export default defineNuxtConfig({
     prerender: {
       routes: ["/sitemap.xml"],
     },
+  },
+  future: {
+    compatibilityVersion: 4,
   },
 });
