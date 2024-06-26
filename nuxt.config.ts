@@ -10,12 +10,7 @@ export default defineNuxtConfig({
   app: {
     pageTransition: { name: "page", mode: "out-in" },
   },
-  modules: [
-    "@nuxtjs/tailwindcss",
-    "@nuxtjs/color-mode",
-    "@nuxt/content",
-    "@nuxt/image"
-  ],
+  modules: ["@nuxtjs/tailwindcss", "@nuxtjs/color-mode", "@nuxt/content"],
   content: {
     highlight: {
       theme: {
