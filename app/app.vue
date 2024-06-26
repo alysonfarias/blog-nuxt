@@ -1,14 +1,7 @@
-<script setup lang="ts">
-</script>
-
 <template>
-  <div>
-    <!-- <NuxtRouteAnnouncer />
-    <NuxtWelcome /> -->
-    <NuxtLayout :name="layout">
-      <NuxtPage />
-    </NuxtLayout>
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
 
 <style>
@@ -23,7 +16,3 @@
   filter: grayscale(1);
 }
 </style>
-
-<script setup lang="ts">
-const layout = "default";
-</script>
