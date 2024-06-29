@@ -12,3 +12,5 @@ I also curate an Instagram page where I share bite-sized insights on tech, healt
 [@alysonfariasss](https://www.instagram.com/alysonfarias/)
 
 Don't hesitate to drop a message about anything that grabs your attention there. I'd love to chat about it
+
+Still trying to think better and get good at getting good
