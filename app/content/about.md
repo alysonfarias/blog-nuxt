@@ -12,16 +12,3 @@ I also curate an Instagram page where I share bite-sized insights on tech, healt
 [@alysonfariasss](https://www.instagram.com/alysonfarias/)
 
 Don't hesitate to drop a message about anything that grabs your attention there. I'd love to chat about it
-
-## What software do I use?
-
-Here's a list of everyday used software:
-
-- VSCode
-- Chrome
-- Docker
-- Ubuntu (Linux)
-- HTML, CSS, Javascript, Typescript, C#, SQL, Dart
-- Tailwindcss, Vue, React, Angular, Bootstrap, Flutter, NodeJs
-
-studying and improve on Nuxt, Vue, Node, Flutter and Tailwindcss
