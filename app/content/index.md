@@ -1,9 +1,13 @@
-# Hello
+##### I'm Alyson, I'm Software Developer and B.Sc. Computer Science at Catholic University of Pernambuco
 
-## I'm Alyson
+##### I also curate an Instagram page where I share bite-sized insights on tech, health and psychology. @alysonfariasss
 
-Read more [about me](/about), or see my latest [projects](/projects)
+##### Don't hesitate to drop a message about anything that grabs your attention there. I'd love to chat about it
 
-## Latest on my blog
+Still trying to think better and get good at getting good
 
-::latest-blog-posts{:limit=5}
+<!-- Read more [about me](/about), or see my latest [projects](/projects) -->
+
+### Latest blog posts
+
+::latest-blog-posts{:limit=10}

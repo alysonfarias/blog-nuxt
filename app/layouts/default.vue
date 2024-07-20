@@ -24,24 +24,24 @@
 <script setup>
 useHead({
   titleTemplate: '%s - Alyson Farias',
-  link: [
-    {
-      rel: 'preconnect',
-      href: 'https://fonts.googleapis.com'
-    },
-    {
-      rel: 'stylesheet',
-      href: 'https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap',
-      crossorigin: ''
-    }
-  ]
+  // link: [
+  //   {
+  //     rel: 'preconnect',
+  //     href: 'https://fonts.googleapis.com'
+  //   },
+  //   {
+  //     rel: 'stylesheet',
+  //     href: 'https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap',
+  //     crossorigin: ''
+  //   }
+  // ]
 })
 </script>
 
 <style>
-body {
+/* body {
   font-family: 'Montserrat';
-}
+} */
 
 body {
   @apply bg-white dark:bg-gray-900 text-gray-700 dark:text-gray-300

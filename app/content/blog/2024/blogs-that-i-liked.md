@@ -8,7 +8,7 @@ publishedAt: 2024-07-20 18:58
 toc: true
 ---
 
-# Blogs That I Liked and Still Exploring
+# Blogs that I liked and still exploring
 
 - [Paul Grahan - Articles](https://paulgraham.com/articles.html)
 - [Sam Altman - Articles](https://blog.samaltman.com/)

@@ -8,7 +8,7 @@ publishedAt: 2024-06-29 11:40:00
 toc: true
 ---
 
-# Programming Trip Wire for juniors and interns 👇
+# Programming trip wire for juniors and interns
 
 ## 1. What you can do before asking for help
 
