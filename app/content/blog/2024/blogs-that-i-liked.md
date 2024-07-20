@@ -14,5 +14,7 @@ toc: true
 - [Sam Altman - Articles](https://blog.samaltman.com/)
 - [Naval Archive](https://nav.al/archive)
 - [Martin Fowler](https://martinfowler.com/tags/)
+- [Sibelius - Substack](https://sibelius.substack.com/)
+- [fs.blog](https://fs.blog)
 
-![a boy reading books](https://api.deepai.org/job-view-file/533d2fa2-e867-411f-8051-adb15c9218ec/outputs/output.jpg?art-image=true)
+![a boy reading books](/images/boy-reading.webp)

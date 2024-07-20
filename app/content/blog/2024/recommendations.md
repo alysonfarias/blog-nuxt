@@ -17,14 +17,14 @@ head:
     - name: "og:type"
       content: "article"
     - name: "og:image"
-      content: /images/pandora-box.png
+      content: /images/pandora-box.webp
 publishedAt: 2024-06-29 10:32:00
 toc: true
 ---
 
 # I wish I had read it at the beginning of my computer science degree 👇
 
-![Pandora's box](/images/pandora-box.jpeg)
+![Pandora's box](/images/pandora-box.webp)
 
 Hi there!
 
