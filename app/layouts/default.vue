@@ -31,7 +31,7 @@ useHead({
     },
     {
       rel: 'stylesheet',
-      href: 'https://fonts.googleapis.com/css2?family=Roboto&display=swap',
+      href: 'https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap',
       crossorigin: ''
     }
   ]
@@ -40,7 +40,7 @@ useHead({
 
 <style>
 body {
-  font-family: 'Roboto';
+  font-family: 'Montserrat';
 }
 
 body {
