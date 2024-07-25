@@ -1,8 +1,8 @@
 <template>
   <BlogPosts v-slot="{ posts }" :limit="limit">
-    <div v-for="post in posts" :key="post.id">
-      <span class="text-xs">{{ formatDate(post.publishedAt) }}</span> |
+    <div class="flex justify-between" v-for="post in posts" :key="post.id">
       <NuxtLink :to="post._path">{{ post.title }}</NuxtLink>
+      <span class="text-xs">{{ formatDate(post.publishedAt) }}</span>
     </div>
   </BlogPosts>
 </template>
