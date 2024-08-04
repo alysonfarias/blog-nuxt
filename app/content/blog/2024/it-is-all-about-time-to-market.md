@@ -4,6 +4,10 @@ head:
   meta:
     - name: "keywords"
       content: "time to market, programming"
+    - name: "og:type"
+      content: "article"
+    - name: "og:image"
+      content: /images/pandora-box.webp
 publishedAt: 2024-07-13 16:41:00
 toc: true
 ---
