@@ -2,6 +2,7 @@
 
 ## August / 2024
 
+- [Advice to the young - Murat Demirbas](https://muratbuffalo.blogspot.com/2024/07/advice-to-young.html)
 - [Iterate over your feedback loop](https://noghartt.dev/blog/iterate-over-your-feedback-loop/)
 - [The Four Theories of Truth as a Method for Critical Thinking](https://imfeld.dev/notes/article_the_four_theories_of_truth_as_a_method_for_critical_thinking)
 - [Module-pattern](https://www.patterns.dev/vanilla/module-pattern)
