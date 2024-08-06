@@ -2,6 +2,11 @@
 
 ## August / 2024
 
+- [great questions](https://sigilwen.ca/questions.html)
+- [productivity](https://sigilwen.ca/productivity.html)
+- [exceptional](https://sigilwen.ca/exceptional.html)
+- [ego](https://sigilwen.ca/ego.html)
+- [Internet gardening](https://jamesg.blog/2024/03/04/internet-gardening/)
 - [On having more interesting ideas](https://www.henrikkarlsson.xyz/p/interesting-ideas)
 - [Chase Your Reading - Overcoming bias - Robin Hanson](https://www.overcomingbias.com/p/chase-your-readinghtml)
 - [Advice to the young - Murat Demirbas](https://muratbuffalo.blogspot.com/2024/07/advice-to-young.html)
