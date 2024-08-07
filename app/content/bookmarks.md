@@ -2,6 +2,8 @@
 
 ## August / 2024
 
+- [Reverse Engineering For Everyone](https://0xinfection.github.io/reversing/)
+- [complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
 - [great questions](https://sigilwen.ca/questions.html)
 - [productivity](https://sigilwen.ca/productivity.html)
 - [exceptional](https://sigilwen.ca/exceptional.html)
