@@ -2,6 +2,7 @@
 
 ## August / 2024
 
+- [Creativity Fundamentally Comes From Memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
 - [Reverse Engineering For Everyone](https://0xinfection.github.io/reversing/)
 - [complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
 - [great questions](https://sigilwen.ca/questions.html)
