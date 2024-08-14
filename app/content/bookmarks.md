@@ -2,6 +2,8 @@
 
 ## August / 2024
 
+- [Exploring the Multifaceted Role: Pros and Cons of Wearing Multiple Hats in the Workplace](https://www.linkedin.com/pulse/exploring-multifaceted-role-pros-cons-wearing-multiple-mohamed-aly/)
+- [How to Add a Static IP to an AWS EC2 Instance](https://dev.to/bashirk/how-to-add-a-static-ip-to-an-aws-ec2-instance-2hea)
 - [Creativity Fundamentally Comes From Memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
 - [Reverse Engineering For Everyone](https://0xinfection.github.io/reversing/)
 - [complex systems emerge from simple rules](https://tecnica.substack.com/p/complex-systems-emerge-from-simple)
