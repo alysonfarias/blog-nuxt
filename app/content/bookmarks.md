@@ -1,6 +1,7 @@
 ## Bookmarks
 
 ## August / 2024
+- [How I Mastered Data Structures - ASHISH PRATAP SINGH ](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms?ref=dailydev)
  - [Visual Data Structures Cheat-Sheet - Nick M](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
 - [Exploring the Multifaceted Role: Pros and Cons of Wearing Multiple Hats in the Workplace](https://www.linkedin.com/pulse/exploring-multifaceted-role-pros-cons-wearing-multiple-mohamed-aly/)
 - [How to Add a Static IP to an AWS EC2 Instance](https://dev.to/bashirk/how-to-add-a-static-ip-to-an-aws-ec2-instance-2hea)
