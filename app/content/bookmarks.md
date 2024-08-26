@@ -3,6 +3,9 @@
 ## August / 2024
 
 - [Off Topic: Somos Matematicamente Ignorantes - 2008 - Akita on Rails](https://www.akitaonrails.com/2008/03/01/off-topic-somos-matematicamente-ignorantes)
+- [visualize-your-multiprocessing-calculations-in-python-with-parallelbar](https://medium.com/pythoneers/visualize-your-multiprocessing-calculations-in-python-with-parallelbar-5395651f35aa)
+- [How I Mastered Data Structures - ASHISH PRATAP SINGH ](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms?ref=dailydev)
+- [Visual Data Structures Cheat-Sheet - Nick M](https://photonlines.substack.com/p/visual-data-structures-cheat-sheet)
 - [Exploring the Multifaceted Role: Pros and Cons of Wearing Multiple Hats in the Workplace](https://www.linkedin.com/pulse/exploring-multifaceted-role-pros-cons-wearing-multiple-mohamed-aly/)
 - [How to Add a Static IP to an AWS EC2 Instance](https://dev.to/bashirk/how-to-add-a-static-ip-to-an-aws-ec2-instance-2hea)
 - [Creativity Fundamentally Comes From Memorization](https://shwin.co/blog/creativity-fundamentally-comes-from-memorization)
