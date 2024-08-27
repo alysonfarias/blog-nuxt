@@ -1,7 +1,7 @@
 ## Bookmarks
 
 ## August / 2024
-
+- [the-product-minded-engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [Off Topic: Somos Matematicamente Ignorantes - 2008 - Akita on Rails](https://www.akitaonrails.com/2008/03/01/off-topic-somos-matematicamente-ignorantes)
 - [visualize-your-multiprocessing-calculations-in-python-with-parallelbar](https://medium.com/pythoneers/visualize-your-multiprocessing-calculations-in-python-with-parallelbar-5395651f35aa)
 - [How I Mastered Data Structures - ASHISH PRATAP SINGH ](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms?ref=dailydev)
