@@ -1,7 +1,7 @@
 ## Bookmarks
 
 ## August / 2024
-
+- [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 - [mesuaring personal growth - Chip Huyen](https://huyenchip.com/2024/04/17/personal-growth.html)
 - [the-product-minded-engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [Off Topic: Somos Matematicamente Ignorantes - 2008 - Akita on Rails](https://www.akitaonrails.com/2008/03/01/off-topic-somos-matematicamente-ignorantes)
