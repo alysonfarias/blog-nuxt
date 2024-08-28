@@ -1,6 +1,8 @@
 ## Bookmarks
 
 ## August / 2024
+
+- [mesuaring personal growth - Chip Huyen](https://huyenchip.com/2024/04/17/personal-growth.html)
 - [the-product-minded-engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [Off Topic: Somos Matematicamente Ignorantes - 2008 - Akita on Rails](https://www.akitaonrails.com/2008/03/01/off-topic-somos-matematicamente-ignorantes)
 - [visualize-your-multiprocessing-calculations-in-python-with-parallelbar](https://medium.com/pythoneers/visualize-your-multiprocessing-calculations-in-python-with-parallelbar-5395651f35aa)
