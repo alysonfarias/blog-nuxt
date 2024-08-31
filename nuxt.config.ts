@@ -24,6 +24,20 @@ export default defineNuxtConfig({
         dark: "min-dark",
       },
     },
+    markdown: {
+      remarkPlugins: ["remark-directive", "remark-gemoji", "remark-rehype"],
+      rehypePlugins: [
+        "rehype-format",
+        "rehype-stringify",
+        [
+          "rehype-external-links",
+          {
+            target: "_blank",
+            rel: "nofollow",
+          },
+        ],
+      ],
+    },
   },
   colorMode: {
     classSuffix: "",

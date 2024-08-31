@@ -9,6 +9,7 @@
 .page-leave-active {
   transition: all 0.1s;
 }
+
 .page-enter-from,
 .page-leave-to {
   opacity: 0.5;
@@ -18,11 +19,20 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Alyson Farias ',
+  title: 'Alyson Farias Desenvolvedor',
   ogTitle: 'alyson farias',
   description: 'alyson farias - digital garden',
   ogDescription: 'alyson farias - digital garden',
-  ogImage: 'https://api.deepai.org/job-view-file/533d2fa2-e867-411f-8051-adb15c9218ec/outputs/output.jpg?art-image=true',
   twitterCard: 'summary_large_image',
 })
+const route = useRoute()
+const config = useRuntimeConfig();
+useHead(() => {
+  const canonical = `${config.public.baseUrl}${route.path}`;
+  return {
+    link: [
+      { hid: "canonical", rel: "canonical", href: canonical }
+    ]
+  };
+});
 </script>
