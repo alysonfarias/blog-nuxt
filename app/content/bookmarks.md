@@ -1,6 +1,11 @@
 ## Bookmarks
 
+## Setember / 2024
+
+- [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
+
 ## August / 2024
+
 - [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 - [mesuaring personal growth - Chip Huyen](https://huyenchip.com/2024/04/17/personal-growth.html)
 - [the-product-minded-engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
