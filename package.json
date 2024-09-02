@@ -19,5 +19,8 @@
     "@types/node": "^18.17.1",
     "nuxt": "^3.12.1",
     "sitemap": "^8.0.0"
+  },
+  "dependencies": {
+    "rehype-format": "^5.0.0"
   }
 }
