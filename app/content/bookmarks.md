@@ -2,6 +2,7 @@
 
 ## Setember / 2024
 
+- [The Lesson to Unlearn](https://paulgraham.com/lesson.html)
 - [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
 
 ## August / 2024
