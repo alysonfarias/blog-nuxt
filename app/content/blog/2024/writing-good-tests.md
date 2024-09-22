@@ -3,7 +3,7 @@ description: Writing Good Tests
 head:
   meta:
     - name: "keywords"
-      content: "articles recommendations, frontend, front-end, awesome-frontend-list"
+      content: "unit tests, writing good unit tests"
 publishedAt: 2024-07-20 18:58
 toc: true
 ---
