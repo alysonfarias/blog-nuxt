@@ -1,7 +1,8 @@
 ## Bookmarks
 
-## Setember / 2024
+## September / 2024
 
+- [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
 - [The Lesson to Unlearn](https://paulgraham.com/lesson.html)
 - [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/)
 
