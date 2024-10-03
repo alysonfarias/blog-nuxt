@@ -10,6 +10,10 @@ export default defineNuxtConfig({
   app: {
     pageTransition: { name: "page", mode: "out-in" },
     head: {
+      htmlAttrs: {
+        lang: "pt-BR",
+      },
+      title: "Alyson Farias",
       link: [
         {
           rel: "canonical",
