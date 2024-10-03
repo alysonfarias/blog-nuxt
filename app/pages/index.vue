@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { SpeedInsights } from "@vercel/speed-insights/nuxt"
 useSeoMeta({
   title: 'Alyson Farias',
   ogTitle: 'alyson farias',
