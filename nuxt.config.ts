@@ -17,7 +17,7 @@ export default defineNuxtConfig({
       link: [
         {
           rel: "canonical",
-          href: "https://www.alysonfarias.me",
+          href: "https://www.alysonfarias.me/",
         },
       ],
     },
