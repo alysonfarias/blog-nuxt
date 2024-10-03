@@ -9,6 +9,14 @@ export default defineNuxtConfig({
   },
   app: {
     pageTransition: { name: "page", mode: "out-in" },
+    head: {
+      link: [
+        {
+          rel: "canonical",
+          href: "https://www.alysonfarias.me",
+        },
+      ],
+    },
   },
   modules: [
     "@nuxtjs/tailwindcss",
