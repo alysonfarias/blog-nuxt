@@ -6,6 +6,10 @@ useSeoMeta({
   ogDescription: 'alyson farias - digital garden',
   ogImage: 'https://api.deepai.org/job-view-file/533d2fa2-e867-411f-8051-adb15c9218ec/outputs/output.jpg?art-image=true',
   twitterCard: 'summary_large_image',
+  keywords: 'alyson farias, desenvolvedor, fullstack, frontend, developer, backend',
+  ogType: 'website',
+  ogUrl: 'https://alysonfarias.me/',
+  ogSiteName: 'Alyson Farias - Digital Garden',
 })
 </script>
 

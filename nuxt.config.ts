@@ -16,7 +16,7 @@ export default defineNuxtConfig({
     "@nuxt/content",
     "@nuxtjs/robots",
     "@nuxtjs/sitemap",
-    "@nuxtjs/seo",
+    // "@nuxtjs/seo",
   ],
   site: {
     url: "https://alysonfarias.me",
