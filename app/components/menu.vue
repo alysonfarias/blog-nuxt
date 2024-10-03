@@ -13,9 +13,9 @@
       <li>
         <NuxtLink to="/blog" class="link">Blog</NuxtLink>
       </li>
-      <li>
+      <!-- <li>
         <NuxtLink to="/projects" class="link">Projects</NuxtLink>
-      </li>
+      </li> -->
 
 
     </ul>
