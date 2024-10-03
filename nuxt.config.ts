@@ -31,10 +31,10 @@ export default defineNuxtConfig({
     // "@nuxtjs/seo",
   ],
   site: {
-    url: "https://alysonfarias.me",
+    url: "https://alysonfarias.me/",
     name: "alyson farias",
     description: "Alyson Farias - Digital Garden",
-    trailingSlash: true,
+    trailingSlash: false,
   },
   content: {
     highlight: {
