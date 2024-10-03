@@ -16,7 +16,14 @@ export default defineNuxtConfig({
     "@nuxt/content",
     "@nuxtjs/robots",
     "@nuxtjs/sitemap",
+    "@nuxtjs/seo",
   ],
+  site: {
+    url: "https://alysonfarias.me",
+    name: "alyson farias",
+    description: "Alyson Farias - Digital Garden",
+    trailingSlash: true,
+  },
   content: {
     highlight: {
       theme: {
