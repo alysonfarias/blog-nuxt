@@ -1,5 +1,10 @@
 ## Bookmarks
 
+## August / 2024
+
+- [Code Reviews Do Find Bugs](https://entropicthoughts.com/code-reviews-do-find-bugs)
+- [Wealth = Have ÷ Need](https://sive.rs/whn)
+
 ## September / 2024
 
 - [Making Things People Want vs. Making Things That Alter Thinking](https://rohan.ga/blog/building-stuff/)
