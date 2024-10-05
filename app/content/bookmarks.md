@@ -2,6 +2,8 @@
 
 ## August / 2024
 
+- [A Burrito Is a Monad](https://williamcotton.com/articles/a-burrito-is-a-monad)
+- [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95)
 - [Code Reviews Do Find Bugs](https://entropicthoughts.com/code-reviews-do-find-bugs)
 - [Wealth = Have ÷ Need](https://sive.rs/whn)
 
