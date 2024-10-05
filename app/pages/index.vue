@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { SpeedInsights } from "@vercel/speed-insights/nuxt"
+// import { SpeedInsights } from "@vercel/speed-insights/nuxt"
 useSeoMeta({
   title: 'Alyson Farias',
   ogTitle: 'alyson farias',
@@ -18,5 +18,5 @@ useSeoMeta({
   <article class="prose dark:prose-invert max-w-none">
     <ContentDoc path="/" />
   </article>
-  <SpeedInsights />
+  <!-- <SpeedInsights /> -->
 </template>
