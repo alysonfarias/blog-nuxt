@@ -2,6 +2,7 @@
 
 ## August / 2024
 
+- [There is A LOT value in working for someone else](https://notes.igorhalfeld.com/note/there's-value-in-working-for-someone-else)
 - [Prompt Caching](https://platform.openai.com/docs/guides/prompt-caching)
 - [A Burrito Is a Monad](https://williamcotton.com/articles/a-burrito-is-a-monad)
 - [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95)
