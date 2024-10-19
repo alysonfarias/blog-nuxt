@@ -1,7 +1,7 @@
 ## Bookmarks
 
 ## August / 2024
-
+- [Lessons from Peter Thiel](https://www.8vc.com/resources/lessons-from-peter-thiel)
 - [Prompt Caching](https://platform.openai.com/docs/guides/prompt-caching)
 - [A Burrito Is a Monad](https://williamcotton.com/articles/a-burrito-is-a-monad)
 - [A gentle introduction to monads](https://kristofsl.medium.com/a-gentle-introduction-to-monads-bc583d41d95)
